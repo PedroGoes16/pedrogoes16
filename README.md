@@ -10,7 +10,7 @@ I'm Pedro, a student in Systems Engineering - UFMG. Passionate about solving com
 - 🖥️ I work as an IT assistant.
 
 ## Contact
-- 📧 [pedrogoes@outlook.com.br]mailto:pedrogoes@outlook.com.br)
+- 📧 [pedrogoes@outlook.com.br](mailto:pedrogoes@outlook.com.br)
 - 🐦 [Twitter](https://twitter.com/PedroHGoes16)
 - 💼 [LinkedIn](https://www.linkedin.com/in/pedro-henrique-goes-de-oliveira-628519137/)
 
