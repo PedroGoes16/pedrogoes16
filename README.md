@@ -12,6 +12,6 @@ I'm Pedro, a student in Systems Engineering - UFMG. Passionate about solving com
 ## Contact
 - 📧 [pedrogoes@outlook.com.br](mailto:pedrogoes@outlook.com.br)
 - 🐦 [Twitter](https://twitter.com/PedroHGoes16)
-- 💼 [LinkedIn](https://www.linkedin.com/in/pedro-henrique-goes-de-oliveira-628519137/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/phgoes/)
 
 Feel free to explore my repositories and get in touch! Let's learn and grow together. 😊
